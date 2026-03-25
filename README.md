@@ -1,6 +1,6 @@
 <img align="left" alt="Coding" width="100" src="https://github.com/carecharbusiness/carechar/blob/main/Carlos_Github.png" >
 
-<h1 align="center">Hola 👋, soy Carlos Enrique Chacón Rojas</h1>
+<h1 align="center">Hola 👋, soy Carlos Enrique Chacon Rojas</h1>
 
 <h3 align="center">💻 Apasionado por la programación, automatización y análisis de datos</h3>
 

@@ -44,5 +44,5 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carecharbusiness&show_icons=true&theme=dark" />
 </p>

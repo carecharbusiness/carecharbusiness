@@ -21,7 +21,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,js,python,git,github,sql,flutter,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,sql,flutter,vscode" />
 </p>
 
 ---
